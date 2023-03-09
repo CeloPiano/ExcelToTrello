@@ -1,0 +1,410 @@
+{
+    "id": "640935ccb813a23ce454660a",
+    "address": null,
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2023-03-09T13:09:55.549Z",
+    "desc": "aqui deu certo!",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "marcelopiano2+3020crzsbrozxe4l4h3+302208uudl8ubugjkei+28qb8niehm@boards.trello.com",
+    "idBoard": "6408e8c5d254de205a5d7759",
+    "idChecklists": [],
+    "idLabels": [],
+    "idList": "6408e8c5d254de205a5d7760",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idShort": 16,
+    "idAttachmentCover": null,
+    "labels": [],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+    "pos": 81919,
+    "shortLink": "6l5uSUwP",
+    "shortUrl": "https://trello.com/c/6l5uSUwP",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/6l5uSUwP/16-marcelo-piano-patusco-santiago",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "6409daa3f5cdde9f34bfef77",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "pos": 81919,
+                    "id": "640935ccb813a23ce454660a",
+                    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+                    "idShort": 16,
+                    "shortLink": "6l5uSUwP"
+                },
+                "old": {
+                    "pos": 229375
+                },
+                "board": {
+                    "id": "6408e8c5d254de205a5d7759",
+                    "name": "Integração",
+                    "shortLink": "BeCX12nb"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7760",
+                    "name": "A fazer"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-09T13:09:55.576Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "e40d63f76c3f585b62ee1ce2e63c36cf",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/e40d63f76c3f585b62ee1ce2e63c36cf",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "6409daa2c0ce0cc4af55af36",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "pos": 229375,
+                    "id": "640935ccb813a23ce454660a",
+                    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+                    "idShort": 16,
+                    "shortLink": "6l5uSUwP"
+                },
+                "old": {
+                    "pos": 81919
+                },
+                "board": {
+                    "id": "6408e8c5d254de205a5d7759",
+                    "name": "Integração",
+                    "shortLink": "BeCX12nb"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7760",
+                    "name": "A fazer"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-09T13:09:54.698Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "e40d63f76c3f585b62ee1ce2e63c36cf",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/e40d63f76c3f585b62ee1ce2e63c36cf",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "6409daa10c550a7bbe35de32",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "closed": false,
+                    "id": "640935ccb813a23ce454660a",
+                    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+                    "idShort": 16,
+                    "shortLink": "6l5uSUwP"
+                },
+                "old": {
+                    "closed": true
+                },
+                "board": {
+                    "id": "6408e8c5d254de205a5d7759",
+                    "name": "Integração",
+                    "shortLink": "BeCX12nb"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7760",
+                    "name": "A fazer"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-09T13:09:53.037Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "e40d63f76c3f585b62ee1ce2e63c36cf",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/e40d63f76c3f585b62ee1ce2e63c36cf",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "6409da9e675863f4d318d26f",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "closed": true,
+                    "id": "640935ccb813a23ce454660a",
+                    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+                    "idShort": 16,
+                    "shortLink": "6l5uSUwP"
+                },
+                "old": {
+                    "closed": false
+                },
+                "board": {
+                    "id": "6408e8c5d254de205a5d7759",
+                    "name": "Integração",
+                    "shortLink": "BeCX12nb"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7760",
+                    "name": "A fazer"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-09T13:09:50.235Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "e40d63f76c3f585b62ee1ce2e63c36cf",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/e40d63f76c3f585b62ee1ce2e63c36cf",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "6409da901bd72573a61ea28a",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "pos": 81919,
+                    "id": "640935ccb813a23ce454660a",
+                    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+                    "idShort": 16,
+                    "shortLink": "6l5uSUwP"
+                },
+                "old": {
+                    "pos": 32767.5
+                },
+                "board": {
+                    "id": "6408e8c5d254de205a5d7759",
+                    "name": "Integração",
+                    "shortLink": "BeCX12nb"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7760",
+                    "name": "A fazer"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-09T13:09:36.569Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "e40d63f76c3f585b62ee1ce2e63c36cf",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/e40d63f76c3f585b62ee1ce2e63c36cf",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "6409da8f633d3efb8e69b0b3",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "pos": 32767.5,
+                    "id": "640935ccb813a23ce454660a",
+                    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+                    "idShort": 16,
+                    "shortLink": "6l5uSUwP"
+                },
+                "old": {
+                    "pos": 212991
+                },
+                "board": {
+                    "id": "6408e8c5d254de205a5d7759",
+                    "name": "Integração",
+                    "shortLink": "BeCX12nb"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7760",
+                    "name": "A fazer"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-09T13:09:35.666Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "e40d63f76c3f585b62ee1ce2e63c36cf",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/e40d63f76c3f585b62ee1ce2e63c36cf",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640935ccb813a23ce4546617",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "id": "640935ccb813a23ce454660a",
+                    "name": "MARCELO PIANO PATUSCO SANTIAGO",
+                    "idShort": 16,
+                    "shortLink": "6l5uSUwP"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7760",
+                    "name": "A fazer"
+                },
+                "board": {
+                    "id": "6408e8c5d254de205a5d7759",
+                    "name": "Integração",
+                    "shortLink": "BeCX12nb"
+                }
+            },
+            "appCreator": {
+                "id": "6408f895adbcdd995291c00f"
+            },
+            "type": "createCard",
+            "date": "2023-03-09T01:26:36.530Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "e40d63f76c3f585b62ee1ce2e63c36cf",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/e40d63f76c3f585b62ee1ce2e63c36cf",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        }
+    ]
+}
