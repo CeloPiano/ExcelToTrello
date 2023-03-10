@@ -1,0 +1,537 @@
+{
+    "id": "640b1d5eb14167c63dc5b982",
+    "address": null,
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dueComplete": false,
+    "dateLastActivity": "2023-03-10T12:33:37.374Z",
+    "desc": "",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "marcelopiano2+3020crzsbrozxe4l4h3+302cf6p5kmtvtj7sx36+1cjdf6rwu0@boards.trello.com",
+    "idBoard": "640b2283b66989b6ddc82711",
+    "idChecklists": [],
+    "idLabels": [
+        "640b22e6e95b1ed399d4f511",
+        "640b22e6e95b1ed399d4f51d",
+        "640b22e6e95b1ed399d4f52b"
+    ],
+    "idList": "640b22899220cb516798f0a1",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idShort": 6,
+    "idAttachmentCover": null,
+    "labels": [
+        {
+            "id": "640b22e6e95b1ed399d4f511",
+            "idBoard": "640b2283b66989b6ddc82711",
+            "name": "GENIAL",
+            "color": "sky"
+        },
+        {
+            "id": "640b22e6e95b1ed399d4f51d",
+            "idBoard": "640b2283b66989b6ddc82711",
+            "name": "BTG",
+            "color": "lime"
+        },
+        {
+            "id": "640b22e6e95b1ed399d4f52b",
+            "idBoard": "640b2283b66989b6ddc82711",
+            "name": "ORAMA",
+            "color": "pink"
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "Bruno Santos",
+    "pos": 65535.5,
+    "shortLink": "qICpIl4h",
+    "shortUrl": "https://trello.com/c/qICpIl4h",
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/qICpIl4h/6-bruno-santos",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "checklists": [],
+    "customFieldItems": [
+        {
+            "id": "640b1d6054e6b50b951d1742",
+            "idValue": "640b230940f2968598b0e4ca",
+            "idCustomField": "640b230940f2968598b0e4c0",
+            "idModel": "640b1d5eb14167c63dc5b982",
+            "modelType": "card"
+        },
+        {
+            "id": "640b1d61c74d99f45655f7e9",
+            "idValue": "640b230940f2968598b0e4b5",
+            "idCustomField": "640b230940f2968598b0e4b1",
+            "idModel": "640b1d5eb14167c63dc5b982",
+            "modelType": "card"
+        },
+        {
+            "id": "640b1d5fd905ed8511fb288c",
+            "value": {
+                "text": "987.654.321-98"
+            },
+            "idCustomField": "640b22e6e95b1ed399d4f4f0",
+            "idModel": "640b1d5eb14167c63dc5b982",
+            "modelType": "card"
+        },
+        {
+            "id": "640b1d5f05c28d64bc418aed",
+            "idValue": "640b22e6e95b1ed399d4f4e5",
+            "idCustomField": "640b22e6e95b1ed399d4f4e3",
+            "idModel": "640b1d5eb14167c63dc5b982",
+            "modelType": "card"
+        }
+    ],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "640b23a1dbd401eb9efbeb26",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "640b22e6e95b1ed399d4f511",
+                        "640b22e6e95b1ed399d4f51d",
+                        "640b22e6e95b1ed399d4f52b"
+                    ],
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 6,
+                    "shortLink": "qICpIl4h"
+                },
+                "old": {
+                    "idLabels": [
+                        "640b22e6e95b1ed399d4f511",
+                        "640b22e6e95b1ed399d4f51d"
+                    ]
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "list": {
+                    "id": "640b22899220cb516798f0a1",
+                    "name": "lista 1"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-10T12:33:37.442Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640b23a0ed06d2d51c0504e1",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "640b22e6e95b1ed399d4f511",
+                        "640b22e6e95b1ed399d4f51d"
+                    ],
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 6,
+                    "shortLink": "qICpIl4h"
+                },
+                "old": {
+                    "idLabels": [
+                        "640b22e6e95b1ed399d4f511"
+                    ]
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "list": {
+                    "id": "640b22899220cb516798f0a1",
+                    "name": "lista 1"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-10T12:33:36.985Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640b23a001fcbd5ab795f281",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "640b22e6e95b1ed399d4f511"
+                    ],
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 6,
+                    "shortLink": "qICpIl4h"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "list": {
+                    "id": "640b22899220cb516798f0a1",
+                    "name": "lista 1"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-10T12:33:36.422Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640b236914408b2c46c55c87",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "idLabels": [],
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 6,
+                    "shortLink": "qICpIl4h"
+                },
+                "old": {
+                    "idLabels": [
+                        "640b22e6e95b1ed399d4f511"
+                    ]
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "list": {
+                    "id": "640b22899220cb516798f0a1",
+                    "name": "lista 1"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-03-10T12:32:41.227Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640b2315e6818b78b5497678",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "old": {
+                    "idValue": "640b22e6e95b1ed399d4f4e7"
+                },
+                "customField": {
+                    "id": "640b22e6e95b1ed399d4f4e3",
+                    "name": "Situação",
+                    "type": "list"
+                },
+                "customFieldItem": {
+                    "id": "640b1d5f05c28d64bc418aed",
+                    "idValue": "640b22e6e95b1ed399d4f4e5",
+                    "idCustomField": "640b22e6e95b1ed399d4f4e3",
+                    "idModel": "640b1d5eb14167c63dc5b982",
+                    "modelType": "card"
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "card": {
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 6,
+                    "shortLink": "qICpIl4h"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCustomFieldItem",
+            "date": "2023-03-10T12:31:17.192Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640b2314a8a2434cca825bad",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "old": {
+                    "idValue": "640b22e6e95b1ed399d4f4e6"
+                },
+                "customField": {
+                    "id": "640b22e6e95b1ed399d4f4e3",
+                    "name": "Situação",
+                    "type": "list"
+                },
+                "customFieldItem": {
+                    "id": "640b1d5f05c28d64bc418aed",
+                    "idValue": "640b22e6e95b1ed399d4f4e7",
+                    "idCustomField": "640b22e6e95b1ed399d4f4e3",
+                    "idModel": "640b1d5eb14167c63dc5b982",
+                    "modelType": "card"
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "card": {
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 6,
+                    "shortLink": "qICpIl4h"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCustomFieldItem",
+            "date": "2023-03-10T12:31:16.142Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640b230940f2968598b0e4a0",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 6,
+                    "shortLink": "qICpIl4h"
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "boardSource": {
+                    "id": "6408e8c5d254de205a5d7759"
+                },
+                "list": {
+                    "id": "640b22899220cb516798f0a1",
+                    "name": "lista 1"
+                }
+            },
+            "appCreator": null,
+            "type": "moveCardToBoard",
+            "date": "2023-03-10T12:31:05.533Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        },
+        {
+            "id": "640b1d5eb14167c63dc5b98e",
+            "idMemberCreator": "6408e8779e2fb1846f8255e7",
+            "data": {
+                "card": {
+                    "id": "640b1d5eb14167c63dc5b982",
+                    "name": "Bruno Santos",
+                    "idShort": 66,
+                    "shortLink": "qICpIl4h"
+                },
+                "board": {
+                    "id": "640b2283b66989b6ddc82711",
+                    "name": "Integração 2",
+                    "shortLink": "UMQLJ6fN"
+                },
+                "list": {
+                    "id": "6408e8c5d254de205a5d7761"
+                }
+            },
+            "appCreator": {
+                "id": "6408f895adbcdd995291c00f"
+            },
+            "type": "createCard",
+            "date": "2023-03-10T12:06:54.306Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "6408e8779e2fb1846f8255e7",
+                "activityBlocked": false,
+                "avatarHash": "6a307c5ba41e5a51ab468f197e8f1d47",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/6408e8779e2fb1846f8255e7/6a307c5ba41e5a51ab468f197e8f1d47",
+                "fullName": "Marcelo Piano",
+                "idMemberReferrer": null,
+                "initials": "MP",
+                "nonPublic": {
+                    "fullName": "Marcelo Piano",
+                    "initials": "MP",
+                    "avatarHash": null
+                },
+                "nonPublicAvailable": true,
+                "username": "marcelopiano2"
+            }
+        }
+    ]
+}

@@ -9,11 +9,16 @@ class Label:
 # aqui label é uma lista com nomes das corretoras que esse cliente tem.
 def geraQuadro(api_key, token, board_id, list_id, card_title, card_desc, corretoras,cpf,situacao,perfil,planejador):
     
+    # lembrar de ajustar
+    id_label_genial = '640b2a9991ff5e2b6becb575'
+    id_label_btg = '640b2a9991ff5e2b6becb581'
+    id_label_orama = '640b2b58696f8f5aefced4a6'
+    
     # legenda das corretoras
     # aqui criei uma classe corretora, pra função add_card poder utilizar o nome.id para acessar o id...
-    genial = Label('6408f1543bd760598eb7cd2c', 'Genial')
-    btg = Label('6408f15a045603c9f3cf189d', 'BTG')
-    orama = Label('6409f97f9201323e745b8e1b', 'Orama')
+    genial = Label(id_label_genial, 'Genial')
+    btg = Label(id_label_btg, 'BTG')
+    orama = Label(id_label_orama, 'Orama')
     interactive = 'a adicionar'
     netx = 'a adicionar'
     
