@@ -8,6 +8,9 @@ class Label:
 
 # aqui label é uma lista com nomes das corretoras que esse cliente tem.
 def geraQuadro(api_key, token, board_id, list_id, card_title, card_desc, corretoras,cpf,situacao,perfil,planejador):
+    
+    # legenda das corretoras
+    # aqui criei uma classe corretora, pra função add_card poder utilizar o nome.id para acessar o id...
     genial = Label('6408f1543bd760598eb7cd2c', 'Genial')
     btg = Label('6408f15a045603c9f3cf189d', 'BTG')
     orama = Label('6409f97f9201323e745b8e1b', 'Orama')
@@ -31,10 +34,13 @@ def geraQuadro(api_key, token, board_id, list_id, card_title, card_desc, correto
 
     # pegar os objetos costumFields
     lista_custom_fields = board.get_custom_field_definitions()
-    
+   
+    # parte que adiciona as labels contidas na lista de labels (joga tudo dentro da lista labeadicionar)
     labelAdicionar = []
     if len(corretoras) > 1:
-        print('adicionar mais de uma corretora a lista')
+        for corretora in corretoras:
+            print(corretora)
+            labelAdicionar.append(nomeCorretora[corretora])
     else:
         labelAdicionar.append(nomeCorretora[corretoras[0]])
     
