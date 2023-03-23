@@ -15,11 +15,6 @@ list_id = '6408e8c5d254de205a5d7761'
 
 
 
-
-
-
-
-
 # temos que chamar isso iterativamente pra cada coluna 
 # aqui criamos o quadro com todos os argumentos...
 titulo = 'Joseph Climber'
