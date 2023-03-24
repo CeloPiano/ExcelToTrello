@@ -41,22 +41,24 @@ def verifica_nomes(client):
     lista_nomes_cards = []
     board_list = client.list_boards()
 
+    count_cards = 0
     for board in board_list:
         # aqui pegamos apenas os cards que não estão arquivados (os open)
         # pega todos os os nomes dos cards
-        if board.name != "Taxa Administrativa":
-            print(f"Verificando os cards que estão no quadro {board.name}")
-            print(f"Adicionando os card na lista...")
-            cards_board = board.open_cards()
-            for card in cards_board:
-                lista_nomes_cards.append(card.name)
-                # como pegar os cpfs? - retorna uma lista e na lista nos iteramos para achar o nome == cpf
-                if len(card.customFields) > 0:
-                    for customField in card.customFields:
-                        # aqui colocamos o nome desejado para o campo personalizado
-                        if customField.name == 'CPF/CNPJ':
-                            lista_nomes_cards.append(customField.value)
+        print(f"Verificando os cards que estão no quadro {board.name}")
+        cards_board = board.open_cards()
+        for card in cards_board:
+            lista_nomes_cards.append(card.name)
+            # como pegar os cpfs? - retorna uma lista e na lista nos iteramos para achar o nome == cpf
+            if len(card.customFields) > 0:
+                for customField in card.customFields:
+                    # aqui colocamos o nome desejado para o campo personalizado
+                    if customField.name == 'CPF/CNPJ':
+                        lista_nomes_cards.append(customField.value)
+            count_cards += 1
         print('')
+        
+    print(f'Número de Cards no trello = {count_cards}')
     return lista_nomes_cards
 
 
@@ -65,6 +67,7 @@ def formatar_string(string):
 
 
 boards_ids = {'balanceamento_gabrihel' : '63e1640fbc36c310635b378f',
+              
             'balanceamento_pavan' : '63dbb367679209e065af6778',
             'balanceamento_jobim' : '63d42ddfc57497c8519a6051',
             'balanceamento_leite' : '63d1729455b75c9c088d4d63',
@@ -112,8 +115,7 @@ def geraQuadro(client, board_id, list_id, card_title, card_desc, corretoras,cpf,
     for object_label in labels_list:
         name = object_label.name
         name_label[name] = object_label
-    
-    
+    # exemplo
     # {'Genial': <Label Genial>
     # 'BTG': <Label BTG>}
     # aqui criei uma classe corretora, pra função add_card poder utilizar o nome.id para acessar o id...

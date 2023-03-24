@@ -1,13 +1,12 @@
-## Detalhes:
+## Details:
 
-Antes de iniciar o programa, excecutando pela main:
+Integration with Trello using the Trello.py API.
+I did this to feed trello with data from a bank of the company I worked for.
 
-Pegar as informações
+Before starting the program, running from main:
 
-- token
+Grab the information:
+
 - api_key
-- board_id 
+- api_token
 - list_id 
-- id_label_genial 
-- id_label_btg
-- id_label_orama
