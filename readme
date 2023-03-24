@@ -1,6 +1,6 @@
 ## Details:
 
-Integration with Trello using the Trello.py API.
+Trello integration utilizing the Trello.py API.
 I did this to feed trello with data from a bank of the company I worked for.
 
 Before starting the program, running from main:
